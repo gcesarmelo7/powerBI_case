@@ -30,7 +30,7 @@ as seguintes informações do mês de Março de 2023:
 equipe de negócios desenvolva planos de ação com o objetivo de aumentar o
 número de usuários cadastrados e impulsionar o crescimento da empresa.
 
-## 3. Resultado
+## 3. Resultados e insights
 
 Utilizou-se o CRISP-DM para a resolução do problema em dados, conforme demonstra figura abaixo.
 
@@ -39,12 +39,37 @@ Utilizou-se o CRISP-DM para a resolução do problema em dados, conforme demonst
 Nesse caso, por se tratar de um modelo mais simples principalmente para visualização de dados, as etapas iniciais do CRISP-DM já foram suficientes para ajudar no entendimento dos dados. Após o business understanding e data understanding,
 na plataforma PowerBI, os dados foram tratados, retirados as duplicatas, nulos e outliers.
 
-Sendo assim, foram constatados alguns insights:
+*Sendo assim, foram constatados alguns insights:*
 
-**- Origem dos compradores:** a maioria dos compradores são de redes sociais seguidos de anúncios pagos. Dessa forma, a equipe de marketing consegue direcionar mais qual grupo compra mais e repensar em estratégias para os grupos que compram menos.
+  - **Origem dos compradores:** a maioria dos compradores são de redes sociais seguidos de anúncios pagos. Dessa forma, a equipe de marketing consegue direcionar mais qual grupo compra mais e repensar em estratégias para os grupos que compram menos.
 
 <img src="images/compradores.png" style="width: 30%; max-width: 400px; display: block; margin: 0 auto;"/>
 
+  - **Gênero dos compradores:** Aqui, mesmo que a proporção esteja quase de metade-metade, observa-se que são mulheres quem consomem mais os produtos no geral.
+
+ <img src="images/genero.png" style="width: 30%; max-width: 400px; display: block; margin: 0 auto;"/>
+
+  - **Usuários ativos:** Da mesma forma que no gênero, os usuários de website e mobile estão bem equilibrados.
+
+  <img src="images/usuarios_ativos.png" style="width: 30%; max-width: 400px; display: block; margin: 0 auto;"/>
+
+  - **Número de compradores por data (março - mensal):** Observa-se que os dias que obteve-se as maiores vendas, foram em finais de semana (sábado e domingo) e sexta-feira. Mais um insight para a equipe de marketing realizarem campanhas mais nichadas.
+
+<img src="images/numero_compradores.png" style="width: 30%; max-width: 400px; display: block; margin: 0 auto;"/>
+
+## 4. Considerações finais
+
+Sendo assim, o dashboard foi realizado e tanto o setor de marketing como outros setores interessados podem fazer o uso do dashboard para questões pertinentes ao negócio. **O dashboard completo contêm filtros, então é possível ter insights de outros dias ou meses desejados, podendo agregar ainda mais para a empresa e lucratividade do business.** O Dashboard completo ficou apresentado dessa forma:
+
+<img src="images/dash_completo_1.png" style="width: 70%; max-width: 400px; display: block; margin: 0 auto;"/>
+
+<br>
+
+<img src="images/dash_completo_2.png" style="width: 70%; max-width: 400px; display: block; margin: 0 auto;"/>
+
+
+   
+ 
 
 
 
