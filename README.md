@@ -67,6 +67,8 @@ Sendo assim, o dashboard foi realizado e tanto o setor de marketing como outros 
 
 <img src="images/dash_completo_2.png" style="width: 70%; max-width: 400px; display: block; margin: 0 auto;"/>
 
+Para ver o [Dashboard](https://github.com/gcesarmelo7/powerBI_case/blob/main/dashboard/dashboard_all.pdf) em PDF, clique no link.
+
 
    
  
