@@ -1,4 +1,4 @@
-<img align="right" width="100" height="100" src="powerBI_logo.jpeg"/>
+<img align="right" width="100" height="100" src="image/powerBI_logo.jpeg"/>
 
 # Crie um painel gerencial automatizado utilizando Power BI
 
